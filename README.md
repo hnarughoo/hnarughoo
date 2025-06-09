@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Vandana (@hnarughoo)
+### 👋 Hi there, I’m Vandana
 
 - 👀 I’m an aspiring **Data Analyst** with a background in Management and a growing passion for data-driven decision-making.
 - 🌱 I’m currently learning **Excel**, **Python**, **SQL**, and **Power BI** to build a strong foundation in data analysis and visualization.
